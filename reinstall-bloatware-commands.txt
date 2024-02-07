@@ -1,0 +1,109 @@
+
+BIXBY
+
+cmd package install-existing com.samsung.android.bixby.wakeup
+cmd package install-existing com.samsung.android.app.spage
+cmd package install-existing com.samsung.android.app.routines
+cmd package install-existing com.samsung.android.bixby.service
+cmd package install-existing com.samsung.android.visionintelligence
+cmd package install-existing com.samsung.android.bixby.agent
+cmd package install-existing com.samsung.android.bixby.agent.dummy
+cmd package install-existing com.samsung.android.bixbyvision.framework
+
+GENERAL SYSTEM
+
+cmd package install-existing com.dsi.ant.sample.acquirechannels
+cmd package install-existing com.dsi.ant.service.socket
+cmd package install-existing com.dsi.ant.server
+cmd package install-existing com.dsi.ant.plugins.antplus
+cmd package install-existing com.android.egg
+cmd package install-existing com.sec.android.easyonehand
+cmd package install-existing com.sec.android.widgetapp.samsungapps
+cmd package install-existing com.sec.android.app.launcher
+cmd package install-existing com.samsung.android.mateagent
+cmd package install-existing com.sec.android.easyMover.Agent
+cmd package install-existing com.samsung.android.app.watchmanagerstub
+cmd package install-existing com.sec.android.daemonapp
+cmd package install-existing com.samsung.android.app.social
+
+SAMSUNG PASS / PAY
+
+cmd package install-existing com.samsung.android.samsungpassautofill
+cmd package install-existing com.samsung.android.authfw
+cmd package install-existing com.samsung.android.samsungpass
+cmd package install-existing com.samsung.android.spay
+cmd package install-existing com.samsung.android.spayfw
+
+GIMMICKY APPS
+
+cmd package install-existing com.samsung.android.aremoji
+cmd package install-existing com.google.ar.core
+cmd package install-existing flipboard.boxer.app
+cmd package install-existing com.samsung.android.wellbeing
+cmd package install-existing com.samsung.android.da.daagent
+cmd package install-existing com.samsung.android.service.livedrawing
+cmd package install-existing com.sec.android.mimage.avatarstickers
+
+FACEBOOK
+
+cmd package install-existing com.facebook.katana
+cmd package install-existing com.facebook.system
+cmd package install-existing com.facebook.appmanager
+cmd package install-existing com.facebook.services
+
+CAR MODE
+
+cmd package install-existing com.samsung.android.drivelink.stub
+
+PRINTING
+
+cmd package install-existing com.android.bips
+cmd package install-existing com.google.android.printservice.recommendation
+cmd package install-existing com.android.printspooler
+
+SAMSUNG EMAIL
+
+cmd package install-existing com.samsung.android.email.provider
+cmd package install-existing com.wsomacp
+
+SAMSUNG GAME LAUNCHER
+
+cmd package install-existing com.samsung.android.game.gamehome
+cmd package install-existing com.enhance.gameservice
+cmd package install-existing com.samsung.android.game.gametools
+cmd package install-existing com.samsung.android.game.gos
+cmd package install-existing com.samsung.android.gametuner.thin
+
+SAMSUNG BROWSER
+
+cmd package install-existing com.sec.android.app.sbrowser
+cmd package install-existing com.samsung.android.app.sbrowseredge
+
+GEAR VR
+
+cmd package install-existing com.samsung.android.hmt.vrsvc
+cmd package install-existing com.samsung.android.app.vrsetupwizardstub
+cmd package install-existing com.samsung.android.hmt.vrshell
+cmd package install-existing com.google.vr.vrcore
+
+SAMSUNG KIDS
+
+cmd package install-existing com.samsung.android.kidsinstaller
+cmd package install-existing com.samsung.android.app.camera.sticker.facearavatar.preload
+
+SAMSUNG LED COVER
+
+cmd package install-existing com.samsung.android.app.ledbackcover
+cmd package install-existing com.sec.android.cover.ledcover
+
+EDGE
+
+cmd package install-existing com.samsung.android.service.peoplestripe
+
+SAMSUNG DEX
+
+cmd package install-existing com.sec.android.desktopmode.uiservice
+cmd package install-existing com.samsung.desktopsystemui
+cmd package install-existing com.sec.android.app.desktoplauncher
+
+Complete Guide: https://www.galaxys24ultraguide.com/remove-bloatware-from-samsung-galaxy-s24-ultra-without-root/
